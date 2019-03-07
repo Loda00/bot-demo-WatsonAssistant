@@ -1,0 +1,44 @@
+body {
+    width: 100%;
+}
+
+.titulo {
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    top: 0;
+}
+
+.bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+input {
+    margin-right: 40px;
+}
+
+.mensajes {
+    margin-top: 5%;
+    margin-bottom: 50px;
+}
+
+.mensaje {
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.bot {
+    background-color: rgb(59, 63, 66);
+    color: white;
+}
+
+.user {
+    align-self: flex-end;
+    background-color: deepskyblue;
+}
